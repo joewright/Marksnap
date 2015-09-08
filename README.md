@@ -35,7 +35,7 @@ If you want the `PDF` version, you just simply add a parameter like this:
     marksnap /source/file.md --pdf
 ```
 
-##### Convert multi files
+##### Convert multiple files
 
 ```javascript
     marksnap --multi /source/*.md some-other.md another.md
