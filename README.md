@@ -38,11 +38,11 @@ If you want the `PDF` version, you just simply add a parameter like this:
 ##### Convert multiple files
 
 ```javascript
-    marksnap /source/*.md some-other.md another.md
+    marksnap --group /source/*.md some-other.md another.md
 ```
 or
 ```javascript
-    marksnap /source/*.md some-other.md another.md ~/output-directory
+    marksnap --group /source/*.md some-other.md another.md ~/output-directory
 ```
 
 ### Notices
